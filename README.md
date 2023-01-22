@@ -1,2 +1,2 @@
-# PythonFinances
-Python Projects about Finances Problems and Questions
+# PandasFinances
+Python Projects with Pandas about Finances Problems and Questions
